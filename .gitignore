@@ -1,0 +1,24 @@
+# environment variable and screats
+
+.env 
+.env.*
+!.env.example
+
+# Dependencies
+
+
+node_modules/
+
+
+# logs
+
+*.log
+
+# operating system files
+
+.DS_Store
+
+Thumb.db
+
+
+
